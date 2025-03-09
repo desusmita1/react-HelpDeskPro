@@ -1,3 +1,7 @@
+
+![Screenshot 1](https://github.com/desusmita1/react-HelpDeskPro/blob/main/screenshots/1.png?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
