@@ -1,6 +1,7 @@
 
 ![Screenshot 1](https://github.com/desusmita1/react-HelpDeskPro/blob/main/screenshots/1.png?raw=true)
-
+![Screenshot 2](https://github.com/desusmita1/react-HelpDeskPro/blob/main/screenshots/1.png?raw=true)
+![Screenshot 3](https://github.com/desusmita1/react-HelpDeskPro/blob/main/screenshots/1.png?raw=true)
 
 # Getting Started with Create React App
 
